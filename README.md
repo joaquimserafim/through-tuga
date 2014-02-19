@@ -4,8 +4,6 @@
 
 [![Build Status](https://travis-ci.org/joaquimserafim/through-tuga.png?branch=master)](https://travis-ci.org/joaquimserafim/through-tuga)
 
-[![browser support](https://ci.testling.com/joaquimserafim/through-tuga.png)](https://ci.testling.com/joaquimserafim/through-tuga)
-
 
 through concept but with Streams2/Tranform making things simple, work as well for Stream3
 
