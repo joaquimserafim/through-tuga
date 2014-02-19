@@ -17,6 +17,7 @@
     "node": ">=0.10"
   },
   "testling": {
+    "files": "test/index.js",
     "browsers": [
       "ie/8..latest",
       "ff/15..latest",
