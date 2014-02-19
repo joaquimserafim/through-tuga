@@ -1,0 +1,42 @@
+{
+  "name": "through-tuga",
+  "version": "1.0.0",
+  "description": "through concept but for Streams2/Tranform making things simple",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "stream",
+    "streams2",
+    "through",
+    "transform"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10"
+  },
+  "testling": {
+    "browsers": [
+      "ie/8..latest",
+      "ff/15..latest",
+      "chrome/20..latest",
+      "safari/5.1..latest"
+    ]
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimserafim/through-tuga.git"
+  },
+  "author": "@joaquimserafim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/through-tuga/issues"
+  },
+  "devDependencies": {
+    "tape": "~2.4.2"
+  }
+}
