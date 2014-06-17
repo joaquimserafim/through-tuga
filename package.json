@@ -1,6 +1,6 @@
 {
   "name": "through-tuga",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "through concept but for Streams2/Tranform making things simple",
   "main": "index.js",
   "directories": {

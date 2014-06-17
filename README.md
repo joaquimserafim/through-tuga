@@ -5,9 +5,9 @@
 [![Build Status](https://travis-ci.org/joaquimserafim/through-tuga.png?branch=master)](https://travis-ci.org/joaquimserafim/through-tuga)
 
 
-through concept but with Streams2/Tranform making things simple, work as well for Stream3
+through concept but with Streams2/Tranform making things simple
 
-**V1**
+**V1.1**
 
 **node: >=0.10**
 
